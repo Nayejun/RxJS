@@ -1,3 +1,4 @@
+##<p align="center"> <img alt="Logo" src="https://user-images.githubusercontent.com/67637706/146295999-6d4a5af4-ae04-4583-90b3-768223d9b621.png" width="200px"> </p>
 ### RxJS란
 ```Observable``` 시퀀스를 이용하여 비동기와 이벤트 기반의 프로그래밍을 구현하기 위한 라이브러리.
 > 일괄된 방식으로 안전하게 데이터흐름을 처리하는 라이브러리.
